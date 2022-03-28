@@ -6,5 +6,5 @@
 
 ## 디스코드 봇을 만들기 전에
 <img src="../main/python_logo.png">
-[파이썬 다운로드](https://python.org/download)
+[파이썬 다운로드https://python.org/download
 
